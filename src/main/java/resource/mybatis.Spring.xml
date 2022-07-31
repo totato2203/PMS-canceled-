@@ -11,11 +11,15 @@
 		게시판의 리스트, 수정, 답글달기, 삭제...			/BoardMapper.xml
 	-->
 	<mappers>
+	<!-- 
 		<mapper resource="resource/mapper/a01_HaeunMapper.xml"/>
 		<mapper resource="resource/mapper/a01_HeonyongMapper.xml"/>
+		 -->
 		<mapper resource="resource/mapper/a01_JanghoMapper.xml"/>
+		<!--
 		<mapper resource="resource/mapper/a01_JongdaeMapper.xml"/>
 		<mapper resource="resource/mapper/a01_SechanMapper.xml"/>
 		<mapper resource="resource/mapper/a01_YejiMapper.xml"/>
+		 -->
 	</mappers>
 </configuration>
